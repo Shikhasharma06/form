@@ -17,6 +17,8 @@ The <fieldset> tag draws a box around the form.
 
 input type="color">  tag here i used for take input in the form of color
 ![Screenshot_9](https://github.com/Shikhasharma06/form/assets/135316685/38b68de1-6991-404c-b930-335d81af18c4)
-<input type="Reset" name="" id="" value="Reset">   tag here i used for reset the all information in this form
+<input type="Reset" name="" id="" value="Reset">   
+tag here i used for reset the all information in this form
             <input type="Submit" >= tag here i used to submit the form.
+            https://shikhasharma06.github.io/form/form.html
             
